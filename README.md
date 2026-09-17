@@ -97,6 +97,27 @@ Automation platform for monitoring freelance opportunities and assisting with op
 
 ---
 
+### Pré-Moldados
+
+Industrial management system for a precast concrete factory, currently in the final stage of development.
+
+**Highlights**
+- Production management
+- Raw-material and finished-goods inventory
+- Customers and orders
+- Dispatch and partial deliveries
+- Purchasing
+- Financial controls
+- React + TypeScript + TanStack Start
+- Supabase / PostgreSQL
+- Authentication and Row Level Security
+- SQL RPCs
+- GitHub Actions
+
+🔒 Currently in the final stage of development. Source code is private.
+
+---
+
 ## 🏗️ Professional Background
 
 Before focusing primarily on software engineering, I worked across:
